@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "5f4dc9a181e1200a71df25b8"
+  },
+  "_server": "530219227924267008",
+  "_season_name": "Season 3",
+  "_season_start": "9/1/2020, 12:10:09 AM",
+  "_season_end": "9/30/2020, 8:00:00 PM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61676ff92cccdb6ba894ae"
+  },
+  "_server": "639332399586476032",
+  "_season_name": "1",
+  "_season_start": "9/15/2020, 9:16:31 PM",
+  "_season_end": "Not Specified",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61688df92cccdb6ba8957c"
+  },
+  "_server": "461329837278232578",
+  "_season_name": "1",
+  "_season_start": "9/15/2020, 9:21:17 PM",
+  "_season_end": "9/30/2020, 1:55:10 PM",
+  "__v": 0
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5f4dcdcc2fc075106b41f28f"
+  },
+  "_server": "530219227924267008",
+  "_player_threshold": "5",
+  "_deck_threshold": "5",
+  "_timeout": "60",
+  "_admin": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6168b4f92cccdb6ba8957e"
+  },
+  "_server": "461329837278232578",
+  "_player_threshold": "3",
+  "_deck_threshold": "3",
+  "_timeout": "60",
+  "_admin": "League Admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6169e4f92cccdb6ba8957f"
+  },
+  "_server": "461329837278232578",
+  "_player_threshold": "10",
+  "_deck_threshold": "10",
+  "_timeout": "60",
+  "_admin": "",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6169fdf92cccdb6ba89580"
+  },
+  "_server": "461329837278232578",
+  "_player_threshold": "10",
+  "_deck_threshold": "10",
+  "_timeout": "60",
+  "_admin": "",
+  "__v": 0
+}]

@@ -1,0 +1,577 @@
+[{
+  "_id": {
+    "$oid": "5f4dc9d681e1200a71df25b9"
+  },
+  "_mentionValue": "203583711302647808",
+  "_server": "530219227924267008",
+  "_name": "Zpen",
+  "_currentDeck": "Freed Zaxara",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dca6681e1200a71df25ba"
+  },
+  "_mentionValue": "530218789891997775",
+  "_server": "530219227924267008",
+  "_name": "playingwithpowermtg",
+  "_currentDeck": "Tymna/thrasios | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dcabc81e1200a71df25bb"
+  },
+  "_mentionValue": "97255278633820160",
+  "_server": "530219227924267008",
+  "_name": "Takato",
+  "_currentDeck": "Thrasios Tymna Hermit Druid",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dcd0b144a261055f35a7b"
+  },
+  "_mentionValue": "444304445455466507",
+  "_server": "530219227924267008",
+  "_name": "kingjay86",
+  "_currentDeck": "Tatyova Stax | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dd6b295e7ee109c78c97e"
+  },
+  "_mentionValue": "129833829782257664",
+  "_server": "530219227924267008",
+  "_name": "Ross",
+  "_currentDeck": "Rectass | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dd6b895e7ee109c78c97f"
+  },
+  "_mentionValue": "158402021630672903",
+  "_server": "530219227924267008",
+  "_name": "ev3rywhen",
+  "_currentDeck": "Sans Black Control | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dd6c1d0408910b8c456fb"
+  },
+  "_mentionValue": "419320683588222977",
+  "_server": "530219227924267008",
+  "_name": "Chronoxeo",
+  "_currentDeck": "Tnt Consultation | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dd6cc523b0710c38082c5"
+  },
+  "_mentionValue": "222764359590346753",
+  "_server": "530219227924267008",
+  "_name": "Ubertaco25 (Greg)",
+  "_currentDeck": "Sbt Layered Combo | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dd712b7d65510ce9e3188"
+  },
+  "_mentionValue": "187338512956260354",
+  "_server": "530219227924267008",
+  "_name": "DaadRobot",
+  "_currentDeck": "None",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dfe1b0b515410f0241ebd"
+  },
+  "_mentionValue": "315247658593812482",
+  "_server": "530219227924267008",
+  "_name": "Basskin",
+  "_currentDeck": "Kinnan Toolbox | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e30681fe0f23d3737b27c"
+  },
+  "_mentionValue": "271084481333559296",
+  "_server": "530219227924267008",
+  "_name": "Mbaurncdy",
+  "_currentDeck": "Blood Pod",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e368c1fe0f23d3737b27d"
+  },
+  "_mentionValue": "184830675860324352",
+  "_server": "530219227924267008",
+  "_name": "riker",
+  "_currentDeck": "Thrasios Smasher | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e37bc1fe0f23d3737b27e"
+  },
+  "_mentionValue": "464408295646429186",
+  "_server": "530219227924267008",
+  "_name": "iczaja24 (Izak)",
+  "_currentDeck": "Food Chain Ukkima",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e387e1fe0f23d3737b27f"
+  },
+  "_mentionValue": "171397173995372545",
+  "_server": "530219227924267008",
+  "_name": "Garrett Playing with Power",
+  "_currentDeck": "5 Color Storm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e486a1fe0f23d3737b280"
+  },
+  "_mentionValue": "692715637541175316",
+  "_server": "530219227924267008",
+  "_name": "Meals22",
+  "_currentDeck": "Breya Consultation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e5fd7c3eda440c0bdf1d9"
+  },
+  "_mentionValue": "104054128233189376",
+  "_server": "530219227924267008",
+  "_name": "DM Good Boy",
+  "_currentDeck": "Food Chain Korvold",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e607fc3eda440c0bdf1da"
+  },
+  "_mentionValue": "131425337656606720",
+  "_server": "530219227924267008",
+  "_name": "Gnarwhal",
+  "_currentDeck": "Something Nuts | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e6102c3eda440c0bdf1db"
+  },
+  "_mentionValue": "104932292547354624",
+  "_server": "530219227924267008",
+  "_name": "Magnivore",
+  "_currentDeck": "Caw-blade | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e6153c3eda440c0bdf1dc"
+  },
+  "_mentionValue": "223588317956931595",
+  "_server": "530219227924267008",
+  "_name": "Tragikarp - Tom",
+  "_currentDeck": "Razakats",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e7093c3eda440c0bdf1dd"
+  },
+  "_mentionValue": "536721172474232882",
+  "_server": "530219227924267008",
+  "_name": "Pinecone",
+  "_currentDeck": "Klothys Stax | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e8f0ac3eda440c0bdf1de"
+  },
+  "_mentionValue": "273595495622901770",
+  "_server": "530219227924267008",
+  "_name": "getCruzed",
+  "_currentDeck": "None",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e940bc3eda440c0bdf1df"
+  },
+  "_mentionValue": "206828426055647232",
+  "_server": "530219227924267008",
+  "_name": "Qu4d",
+  "_currentDeck": "Pako Midrange",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e94b5c3eda440c0bdf1e0"
+  },
+  "_mentionValue": "709359226840940565",
+  "_server": "530219227924267008",
+  "_name": "milesmilany",
+  "_currentDeck": "Sisay Tutor Chains",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e94d0c3eda440c0bdf1e1"
+  },
+  "_mentionValue": "182993775608463360",
+  "_server": "530219227924267008",
+  "_name": "Venellian",
+  "_currentDeck": "Hope | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e94d7c3eda440c0bdf1e2"
+  },
+  "_mentionValue": "183669405140516864",
+  "_server": "530219227924267008",
+  "_name": "Scrooge",
+  "_currentDeck": "Elsha Top",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4ec4dec3eda440c0bdf1e6"
+  },
+  "_mentionValue": "470806653667639297",
+  "_server": "530219227924267008",
+  "_name": "Ownmaster12",
+  "_currentDeck": "Black Hole Son",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4ed442c3eda440c0bdf1e7"
+  },
+  "_mentionValue": "204317229729185792",
+  "_server": "530219227924267008",
+  "_name": "Reo",
+  "_currentDeck": "Gaaiv Control",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4ef9ecc3eda440c0bdf1e9"
+  },
+  "_mentionValue": "438376932225187840",
+  "_server": "530219227924267008",
+  "_name": "Addis",
+  "_currentDeck": "Elsha Top",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4efa40c3eda440c0bdf1ea"
+  },
+  "_mentionValue": "197105165709475840",
+  "_server": "530219227924267008",
+  "_name": "VinChouin",
+  "_currentDeck": "Kinnan Combo | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fe0f8c3eda440c0bdf1ed"
+  },
+  "_mentionValue": "404665035689033730",
+  "_server": "530219227924267008",
+  "_name": "jfrankel",
+  "_currentDeck": "Lavinia | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4fef4ac3eda440c0bdf1ee"
+  },
+  "_mentionValue": "377305789272162305",
+  "_server": "530219227924267008",
+  "_name": "Timmyt1000™",
+  "_currentDeck": "Squirrel Force One | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f500d3bc3eda440c0bdf1f1"
+  },
+  "_mentionValue": "321851906890661899",
+  "_server": "530219227924267008",
+  "_name": "ringokami",
+  "_currentDeck": "Sen Triplets | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f502a9dc3eda440c0bdf1f4"
+  },
+  "_mentionValue": "157268137245540352",
+  "_server": "530219227924267008",
+  "_name": "Hallenium",
+  "_currentDeck": "Dawnwaker Thrasios | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5036e2c3eda440c0bdf1f6"
+  },
+  "_mentionValue": "143643886521155584",
+  "_server": "530219227924267008",
+  "_name": "Ilvaldi",
+  "_currentDeck": "Heliod Stax | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f508080c3eda440c0bdf1fb"
+  },
+  "_mentionValue": "358783205505105931",
+  "_server": "530219227924267008",
+  "_name": "gtfbladex",
+  "_currentDeck": "Niv-mizzet | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f516199c3eda440c0bdf1fd"
+  },
+  "_mentionValue": "261608991061311488",
+  "_server": "530219227924267008",
+  "_name": "svessesvv",
+  "_currentDeck": "Thrasios Tymna Storm | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5422f98daa3f722a12fc0d"
+  },
+  "_mentionValue": "213534412489490434",
+  "_server": "530219227924267008",
+  "_name": "Althanear",
+  "_currentDeck": "Godo Helm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5aa9bef92cccdb6ba893cd"
+  },
+  "_mentionValue": "254455882169974786",
+  "_server": "530219227924267008",
+  "_name": "iguy",
+  "_currentDeck": "Black Hole Son",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5bf1a5f92cccdb6ba893cf"
+  },
+  "_mentionValue": "167400138313039872",
+  "_server": "530219227924267008",
+  "_name": "Disco Breaker",
+  "_currentDeck": "Blood Pod",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5bf687f92cccdb6ba893d0"
+  },
+  "_mentionValue": "180147358376394753",
+  "_server": "530219227924267008",
+  "_name": "zack",
+  "_currentDeck": "Kess | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e67e2f92cccdb6ba893d6"
+  },
+  "_mentionValue": "458696961013448704",
+  "_server": "530219227924267008",
+  "_name": "OlliPolli",
+  "_currentDeck": "Tatyova Lands",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5e67e7f92cccdb6ba893d7"
+  },
+  "_mentionValue": "228982506630676480",
+  "_server": "530219227924267008",
+  "_name": "Poesn",
+  "_currentDeck": "Midrange T&t Consultation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5eb6d9f92cccdb6ba893d9"
+  },
+  "_mentionValue": "161971781958238208",
+  "_server": "530219227924267008",
+  "_name": "Praetor Xak (Zach)",
+  "_currentDeck": "T&t Bears | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f610645f92cccdb6ba893de"
+  },
+  "_mentionValue": "122898984078540802",
+  "_server": "530219227924267008",
+  "_name": "Enr1k",
+  "_currentDeck": "Thrasios/vial Oracle",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f610dd8f92cccdb6ba893df"
+  },
+  "_mentionValue": "192394794662625280",
+  "_server": "530219227924267008",
+  "_name": "Trireaper",
+  "_currentDeck": "None",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f610e99f92cccdb6ba893e0"
+  },
+  "_mentionValue": "221728541333520384",
+  "_server": "530219227924267008",
+  "_name": "Zradato",
+  "_currentDeck": "Fblthp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f616788f92cccdb6ba894af"
+  },
+  "_mentionValue": "377305789272162305",
+  "_server": "639332399586476032",
+  "_name": "Timmyt1000 ™",
+  "_currentDeck": "None",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f616895f92cccdb6ba8957d"
+  },
+  "_mentionValue": "377305789272162305",
+  "_server": "461329837278232578",
+  "_name": "Timmyt1000 ™",
+  "_currentDeck": "Squirrel Force One",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f616c4af92cccdb6ba89583"
+  },
+  "_mentionValue": "131425337656606720",
+  "_server": "461329837278232578",
+  "_name": "Gnarwhal",
+  "_currentDeck": "Squirrel Force One",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f62d1b8f92cccdb6ba89585"
+  },
+  "_mentionValue": "157320319177064448",
+  "_server": "530219227924267008",
+  "_name": "Namulith",
+  "_currentDeck": "Titania | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63f10af92cccdb6ba89587"
+  },
+  "_mentionValue": "452472575507955715",
+  "_server": "530219227924267008",
+  "_name": "Honest Abe",
+  "_currentDeck": "Lazav | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f643188f92cccdb6ba89588"
+  },
+  "_mentionValue": "587192402813517844",
+  "_server": "530219227924267008",
+  "_name": "Scion of Oona",
+  "_currentDeck": "Oona Consultation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f653dc5f92cccdb6ba8958a"
+  },
+  "_mentionValue": "217217192674983946",
+  "_server": "530219227924267008",
+  "_name": "Shadows",
+  "_currentDeck": "Filter Anje",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f698390f92cccdb6ba89592"
+  },
+  "_mentionValue": "600227664518840320",
+  "_server": "461329837278232578",
+  "_name": "royaltot",
+  "_currentDeck": "Gitrog Dredge",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f698395f92cccdb6ba89593"
+  },
+  "_mentionValue": "280247815609909248",
+  "_server": "461329837278232578",
+  "_name": "Magic Turtle",
+  "_currentDeck": "Breya Consultation",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f698397f92cccdb6ba89594"
+  },
+  "_mentionValue": "246016120803295232",
+  "_server": "461329837278232578",
+  "_name": "TWICE",
+  "_currentDeck": "Tymna Tana Hulk | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f698399f92cccdb6ba89595"
+  },
+  "_mentionValue": "501449098096803851",
+  "_server": "461329837278232578",
+  "_name": "Looter-Scooter",
+  "_currentDeck": "Durdle Control | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6e7847eed22fe27d07c315"
+  },
+  "_mentionValue": "322784223041814530",
+  "_server": "530219227924267008",
+  "_name": "Jamaican_dude",
+  "_currentDeck": "Thrasios Tymna Hermit Druid",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6fbc91eed22fe27d07c316"
+  },
+  "_mentionValue": "445764278352609291",
+  "_server": "530219227924267008",
+  "_name": "knightrocker (Josh)",
+  "_currentDeck": "Thrasios Tymna Man | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6fe202eed22fe27d07c319"
+  },
+  "_mentionValue": "424777545678848002",
+  "_server": "530219227924267008",
+  "_name": "CWSHERRILL",
+  "_currentDeck": "Kinnan | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f70d475eed22fe27d07c31a"
+  },
+  "_mentionValue": "262824623161344001",
+  "_server": "530219227924267008",
+  "_name": "【𝒵𝑜𝒹𝓈】",
+  "_currentDeck": "Food Chain Ukkima",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f712a2deed22fe27d07c31c"
+  },
+  "_mentionValue": "210555323340161025",
+  "_server": "530219227924267008",
+  "_name": "TheGore4",
+  "_currentDeck": "Winota Snowball Stax | Rogue",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f727f35eed22fe27d07c31f"
+  },
+  "_mentionValue": "174363564239355905",
+  "_server": "530219227924267008",
+  "_name": "Higher",
+  "_currentDeck": "Kinnan Scepter",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f73ac25eed22fe27d07c321"
+  },
+  "_mentionValue": "207582855205879808",
+  "_server": "530219227924267008",
+  "_name": "Dkon",
+  "_currentDeck": "Tymna Kraum Divergent | Rogue",
+  "__v": 0
+}]

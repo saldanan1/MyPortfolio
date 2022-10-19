@@ -1,0 +1,2864 @@
+[{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24ec"
+  },
+  "_name": "Harvest Animar",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24ee"
+  },
+  "_name": "Grixis Consultation",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24f0"
+  },
+  "_name": "Kess Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24f2"
+  },
+  "_name": "Elsha Top",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24f4"
+  },
+  "_name": "Godo Helm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24f6"
+  },
+  "_name": "Najeela Tempo",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24f8"
+  },
+  "_name": "Tasigur Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24fa"
+  },
+  "_name": "Food Chain Sliver",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24fc"
+  },
+  "_name": "Gitrog Dredge",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df24fe"
+  },
+  "_name": "Opus Thief",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2500"
+  },
+  "_name": "Curious Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2502"
+  },
+  "_name": "Blood Pod",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2504"
+  },
+  "_name": "Razakats",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2506"
+  },
+  "_name": "Scepter Thrasios",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2508"
+  },
+  "_name": "Urza Powered Scepter",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df250a"
+  },
+  "_name": "Yidris Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df250c"
+  },
+  "_name": "Midrange Yisan",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df250e"
+  },
+  "_name": "Zur Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2510"
+  },
+  "_name": "Blue Farm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2512"
+  },
+  "_name": "Food Chain Korvold",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2514"
+  },
+  "_name": "Selvala Brostorm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2516"
+  },
+  "_name": "Brago Stax",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df251a"
+  },
+  "_name": "Oona Consultation",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2518"
+  },
+  "_name": "Circu Lantern Isoreversal",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df251c"
+  },
+  "_name": "Vannifar",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df251e"
+  },
+  "_name": "Grixis Twin",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2520"
+  },
+  "_name": "Derevi Stax",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2522"
+  },
+  "_name": "Bad Farm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2524"
+  },
+  "_name": "Razbear-y Anafenza",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2526"
+  },
+  "_name": "Muldrotha Midrange",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2528"
+  },
+  "_name": "Mad Farm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df252a"
+  },
+  "_name": "T&K Bearweaver",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df252c"
+  },
+  "_name": "High Tide Jace",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df252e"
+  },
+  "_name": "Sidisi Ad Naus Fishbowl",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2530"
+  },
+  "_name": "Honorless Meren",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2532"
+  },
+  "_name": "Varolz Hulk",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2534"
+  },
+  "_name": "Edric Turns",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2536"
+  },
+  "_name": "Food Chain Prossh",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2538"
+  },
+  "_name": "Consult Raza Thrasios",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df253a"
+  },
+  "_name": "Baral Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df253e"
+  },
+  "_name": "Fblthp",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df253c"
+  },
+  "_name": "Rashmi Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2540"
+  },
+  "_name": "Scion Reanimator",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2544"
+  },
+  "_name": "Kaalia Razaketh",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2542"
+  },
+  "_name": "High Tide Azami",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2548"
+  },
+  "_name": "Markov Razaketh",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2546"
+  },
+  "_name": "Yarok Aluren Alarm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df254a"
+  },
+  "_name": "Toothy Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df254e"
+  },
+  "_name": "Blue Pod",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df254c"
+  },
+  "_name": "Niv-Mizzet Parun Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2552"
+  },
+  "_name": "Yuriko Doomsday Oracle",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2550"
+  },
+  "_name": "Jhoira Stax Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2554"
+  },
+  "_name": "SBT Layered Combo",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2556"
+  },
+  "_name": "Adnaus/Earthcraft Ghave Combo",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2558"
+  },
+  "_name": "Tymna Kraum Divergent",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df255a"
+  },
+  "_name": "Master Flicker",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df255c"
+  },
+  "_name": "Chulane",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df255e"
+  },
+  "_name": "Marwyn Elfball",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2560"
+  },
+  "_name": "Lavinia Omen Pool",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2562"
+  },
+  "_name": "Kefnet Turns",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2564"
+  },
+  "_name": "Inalla Wizard Combo",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2566"
+  },
+  "_name": "Black Hole Son",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2568"
+  },
+  "_name": "Aminatou Consultation",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df256a"
+  },
+  "_name": "Shuffle Atla",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df256c"
+  },
+  "_name": "Kenrith Consultation",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2570"
+  },
+  "_name": "Uro Scepter",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df256e"
+  },
+  "_name": "Selvala Twiddlestorm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2572"
+  },
+  "_name": "Chain Veil Teferi",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2574"
+  },
+  "_name": "Momir Hackball",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2576"
+  },
+  "_name": "Divergent Kykar",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df257a"
+  },
+  "_name": "Emry",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2578"
+  },
+  "_name": "The Pet Cemetery",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df257c"
+  },
+  "_name": "Kykar Underworld Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df257e"
+  },
+  "_name": "Thrasios/Vial Oracle",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2580"
+  },
+  "_name": "Thrasios/Bruse Tarl Evolution",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2582"
+  },
+  "_name": "Midrange T&T Consultation",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2584"
+  },
+  "_name": "Taigam Turns",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2586"
+  },
+  "_name": "Heliod Ballista",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df2588"
+  },
+  "_name": "Kenrith Thief",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df258a"
+  },
+  "_name": "Tatyova Lands",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80a81e1200a71df258c"
+  },
+  "_name": "Kinnan Scepter",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df258e"
+  },
+  "_name": "Tayam Midrange Druid",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df2590"
+  },
+  "_name": "Pako Midrange",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df2592"
+  },
+  "_name": "Rielle Discard Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df2594"
+  },
+  "_name": "Sygg Draw-Go",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df2596"
+  },
+  "_name": "Thrasios Tymna Hermit Druid",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df2598"
+  },
+  "_name": "Brallin Curiosity",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df259a"
+  },
+  "_name": "Breya Consultation",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df259c"
+  },
+  "_name": "Thrasios Tymna Protean Hulk",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df259e"
+  },
+  "_name": "Freed Zaxara",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25a2"
+  },
+  "_name": "Food Chain Ukkima",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25a0"
+  },
+  "_name": "Freeze Thief",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25a4"
+  },
+  "_name": "GAAIV Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25a6"
+  },
+  "_name": "Sisay Tutor Chains",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25a8"
+  },
+  "_name": "5 Color Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25aa"
+  },
+  "_name": "Hex Broker",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25ae"
+  },
+  "_name": "Filter Anje",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25ac"
+  },
+  "_name": "Xantcha Combo-Control",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25b0"
+  },
+  "_name": "Seared Sausage",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25b2"
+  },
+  "_name": "Roiling Chain",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25b4"
+  },
+  "_name": "Comsos Chain",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4dc80b81e1200a71df25b6"
+  },
+  "_name": "BUG Citadel Storm",
+  "_server": "530219227924267008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72cc"
+  },
+  "_name": "Harvest Animar",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72ce"
+  },
+  "_name": "Godo Helm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72d0"
+  },
+  "_name": "Elsha Top",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72d2"
+  },
+  "_name": "Grixis Consultation",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72d4"
+  },
+  "_name": "Kess Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72d6"
+  },
+  "_name": "Najeela Tempo",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72d8"
+  },
+  "_name": "Tasigur Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72da"
+  },
+  "_name": "Food Chain Sliver",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72dc"
+  },
+  "_name": "Opus Thief",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72de"
+  },
+  "_name": "Gitrog Dredge",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72e0"
+  },
+  "_name": "Curious Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72e2"
+  },
+  "_name": "Scepter Thrasios",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72e4"
+  },
+  "_name": "Blood Pod",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72e6"
+  },
+  "_name": "Razakats",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72e8"
+  },
+  "_name": "Midrange Yisan",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72ea"
+  },
+  "_name": "Zur Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72ec"
+  },
+  "_name": "Urza Powered Scepter",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72ee"
+  },
+  "_name": "Yidris Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72f0"
+  },
+  "_name": "Food Chain Korvold",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72f2"
+  },
+  "_name": "Selvala Brostorm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72f4"
+  },
+  "_name": "Blue Farm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72f6"
+  },
+  "_name": "Oona Consultation",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72f8"
+  },
+  "_name": "Brago Stax",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72fa"
+  },
+  "_name": "Circu Lantern Isoreversal",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72fc"
+  },
+  "_name": "Derevi Stax",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b72fe"
+  },
+  "_name": "Bad Farm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7300"
+  },
+  "_name": "Razbear-y Anafenza",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7302"
+  },
+  "_name": "Vannifar",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7304"
+  },
+  "_name": "Grixis Twin",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7306"
+  },
+  "_name": "Muldrotha Midrange",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7308"
+  },
+  "_name": "Mad Farm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b730a"
+  },
+  "_name": "T&K Bearweaver",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b730c"
+  },
+  "_name": "High Tide Jace",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b730e"
+  },
+  "_name": "Sidisi Ad Naus Fishbowl",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7310"
+  },
+  "_name": "Honorless Meren",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7312"
+  },
+  "_name": "Varolz Hulk",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7314"
+  },
+  "_name": "Edric Turns",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7316"
+  },
+  "_name": "Food Chain Prossh",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7318"
+  },
+  "_name": "Consult Raza Thrasios",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b731a"
+  },
+  "_name": "Scion Reanimator",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b731c"
+  },
+  "_name": "Fblthp",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b731e"
+  },
+  "_name": "High Tide Azami",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7322"
+  },
+  "_name": "Rashmi Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7320"
+  },
+  "_name": "Baral Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7324"
+  },
+  "_name": "Kaalia Razaketh",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7326"
+  },
+  "_name": "Yarok Aluren Alarm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7328"
+  },
+  "_name": "Markov Razaketh",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b732a"
+  },
+  "_name": "Blue Pod",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b732c"
+  },
+  "_name": "Toothy Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b732e"
+  },
+  "_name": "Niv-Mizzet Parun Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7330"
+  },
+  "_name": "Jhoira Stax Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7332"
+  },
+  "_name": "Yuriko Doomsday Oracle",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7334"
+  },
+  "_name": "SBT Layered Combo",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7336"
+  },
+  "_name": "Adnaus/Earthcraft Ghave Combo",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab412350c40a09b7338"
+  },
+  "_name": "Tymna Kraum Divergent",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b733a"
+  },
+  "_name": "Master Flicker",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b733c"
+  },
+  "_name": "Chulane",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b733e"
+  },
+  "_name": "Marwyn Elfball",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7340"
+  },
+  "_name": "Lavinia Omen Pool",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7342"
+  },
+  "_name": "Black Hole Son",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7346"
+  },
+  "_name": "Inalla Wizard Combo",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7344"
+  },
+  "_name": "Kefnet Turns",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b734a"
+  },
+  "_name": "Shuffle Atla",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7348"
+  },
+  "_name": "Aminatou Consultation",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b734c"
+  },
+  "_name": "Uro Scepter",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b734e"
+  },
+  "_name": "Chain Veil Teferi",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7350"
+  },
+  "_name": "Momir Hackball",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7354"
+  },
+  "_name": "Selvala Twiddlestorm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7352"
+  },
+  "_name": "Kenrith Consultation",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7356"
+  },
+  "_name": "Divergent Kykar",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7358"
+  },
+  "_name": "The Pet Cemetery",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b735a"
+  },
+  "_name": "Emry",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b735c"
+  },
+  "_name": "Kykar Underworld Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b735e"
+  },
+  "_name": "Thrasios/Vial Oracle",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7360"
+  },
+  "_name": "Thrasios/Bruse Tarl Evolution",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7362"
+  },
+  "_name": "Midrange T&T Consultation",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7364"
+  },
+  "_name": "Taigam Turns",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7366"
+  },
+  "_name": "Heliod Ballista",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7368"
+  },
+  "_name": "Kenrith Thief",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b736a"
+  },
+  "_name": "Tatyova Lands",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b736c"
+  },
+  "_name": "Kinnan Scepter",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b736e"
+  },
+  "_name": "Tayam Midrange Druid",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7370"
+  },
+  "_name": "Rielle Discard Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7372"
+  },
+  "_name": "Sygg Draw-Go",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7374"
+  },
+  "_name": "Pako Midrange",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7376"
+  },
+  "_name": "Brallin Curiosity",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7378"
+  },
+  "_name": "Thrasios Tymna Hermit Druid",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b737a"
+  },
+  "_name": "Thrasios Tymna Protean Hulk",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b737c"
+  },
+  "_name": "Freed Zaxara",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b737e"
+  },
+  "_name": "Freeze Thief",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7380"
+  },
+  "_name": "Breya Consultation",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7382"
+  },
+  "_name": "5 Color Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7384"
+  },
+  "_name": "Xantcha Combo-Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7386"
+  },
+  "_name": "GAAIV Control",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7388"
+  },
+  "_name": "Food Chain Ukkima",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b738c"
+  },
+  "_name": "Filter Anje",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b738a"
+  },
+  "_name": "Sisay Tutor Chains",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b738e"
+  },
+  "_name": "Seared Sausage",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7390"
+  },
+  "_name": "Hex Broker",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7392"
+  },
+  "_name": "BUG Citadel Storm",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7396"
+  },
+  "_name": "Comsos Chain",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f4e4ab512350c40a09b7394"
+  },
+  "_name": "Roiling Chain",
+  "_server": "727264412963962910",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893e3"
+  },
+  "_name": "Harvest Animar",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893e5"
+  },
+  "_name": "Tasigur Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893ed"
+  },
+  "_name": "Kess Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893e9"
+  },
+  "_name": "Godo Helm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893f1"
+  },
+  "_name": "Food Chain Sliver",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893eb"
+  },
+  "_name": "Grixis Consultation",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893e7"
+  },
+  "_name": "Elsha Top",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893ef"
+  },
+  "_name": "Najeela Tempo",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893f9"
+  },
+  "_name": "Blood Pod",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893f3"
+  },
+  "_name": "Opus Thief",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893f5"
+  },
+  "_name": "Gitrog Dredge",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893f7"
+  },
+  "_name": "Urza Powered Scepter",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893fb"
+  },
+  "_name": "Blue Farm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893ff"
+  },
+  "_name": "Selvala Brostorm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89401"
+  },
+  "_name": "Scepter Thrasios",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89403"
+  },
+  "_name": "Curious Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89405"
+  },
+  "_name": "Razakats",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba893fd"
+  },
+  "_name": "Food Chain Korvold",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89407"
+  },
+  "_name": "Yidris Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89409"
+  },
+  "_name": "Midrange Yisan",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89411"
+  },
+  "_name": "Vannifar",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8940f"
+  },
+  "_name": "Oona Consultation",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8940d"
+  },
+  "_name": "Circu Lantern Isoreversal",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8940b"
+  },
+  "_name": "Zur Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89413"
+  },
+  "_name": "Grixis Twin",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89415"
+  },
+  "_name": "Derevi Stax",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89417"
+  },
+  "_name": "Bad Farm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89419"
+  },
+  "_name": "Brago Stax",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8941b"
+  },
+  "_name": "T&K Bearweaver",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8941d"
+  },
+  "_name": "High Tide Jace",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8941f"
+  },
+  "_name": "Sidisi Ad Naus Fishbowl",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89421"
+  },
+  "_name": "Honorless Meren",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89423"
+  },
+  "_name": "Mad Farm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89427"
+  },
+  "_name": "Razbear-y Anafenza",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89429"
+  },
+  "_name": "Consult Raza Thrasios",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8942f"
+  },
+  "_name": "Scion Reanimator",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89431"
+  },
+  "_name": "Fblthp",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8942b"
+  },
+  "_name": "Baral Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8942d"
+  },
+  "_name": "Rashmi Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89425"
+  },
+  "_name": "Muldrotha Midrange",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89435"
+  },
+  "_name": "Kaalia Razaketh",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89433"
+  },
+  "_name": "High Tide Azami",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89437"
+  },
+  "_name": "Varolz Hulk",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89439"
+  },
+  "_name": "Edric Turns",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8943b"
+  },
+  "_name": "Food Chain Prossh",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8943d"
+  },
+  "_name": "Yarok Aluren Alarm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8943f"
+  },
+  "_name": "Markov Razaketh",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89441"
+  },
+  "_name": "Toothy Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89443"
+  },
+  "_name": "Niv-Mizzet Parun Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89445"
+  },
+  "_name": "Blue Pod",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89447"
+  },
+  "_name": "Jhoira Stax Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89449"
+  },
+  "_name": "Yuriko Doomsday Oracle",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8944b"
+  },
+  "_name": "SBT Layered Combo",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8944d"
+  },
+  "_name": "Kefnet Turns",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8944f"
+  },
+  "_name": "Chulane",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89451"
+  },
+  "_name": "Marwyn Elfball",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89453"
+  },
+  "_name": "Adnaus/Earthcraft Ghave Combo",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89455"
+  },
+  "_name": "Master Flicker",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89457"
+  },
+  "_name": "Tymna Kraum Divergent",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89459"
+  },
+  "_name": "Aminatou Consultation",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8945b"
+  },
+  "_name": "Shuffle Atla",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8945d"
+  },
+  "_name": "Kenrith Consultation",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8945f"
+  },
+  "_name": "Selvala Twiddlestorm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89461"
+  },
+  "_name": "Uro Scepter",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89463"
+  },
+  "_name": "Chain Veil Teferi",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89465"
+  },
+  "_name": "Momir Hackball",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89467"
+  },
+  "_name": "Lavinia Omen Pool",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba89469"
+  },
+  "_name": "Inalla Wizard Combo",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8946b"
+  },
+  "_name": "Black Hole Son",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8946d"
+  },
+  "_name": "Divergent Kykar",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ef92cccdb6ba8946f"
+  },
+  "_name": "The Pet Cemetery",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89471"
+  },
+  "_name": "Tatyova Lands",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89473"
+  },
+  "_name": "Kinnan Scepter",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89475"
+  },
+  "_name": "Emry",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89477"
+  },
+  "_name": "Thrasios/Bruse Tarl Evolution",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89479"
+  },
+  "_name": "Thrasios/Vial Oracle",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8947b"
+  },
+  "_name": "Midrange T&T Consultation",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8947d"
+  },
+  "_name": "Heliod Ballista",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8947f"
+  },
+  "_name": "Kenrith Thief",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89481"
+  },
+  "_name": "Taigam Turns",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89483"
+  },
+  "_name": "Kykar Underworld Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89485"
+  },
+  "_name": "Tayam Midrange Druid",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89487"
+  },
+  "_name": "Rielle Discard Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89489"
+  },
+  "_name": "Brallin Curiosity",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8948b"
+  },
+  "_name": "Sygg Draw-Go",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89493"
+  },
+  "_name": "Freed Zaxara",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8948d"
+  },
+  "_name": "Pako Midrange",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89491"
+  },
+  "_name": "Thrasios Tymna Protean Hulk",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8948f"
+  },
+  "_name": "Thrasios Tymna Hermit Druid",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89495"
+  },
+  "_name": "Freeze Thief",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89497"
+  },
+  "_name": "GAAIV Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba89499"
+  },
+  "_name": "Food Chain Ukkima",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8949b"
+  },
+  "_name": "Sisay Tutor Chains",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8949d"
+  },
+  "_name": "5 Color Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba8949f"
+  },
+  "_name": "Breya Consultation",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894a1"
+  },
+  "_name": "Xantcha Combo-Control",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894a3"
+  },
+  "_name": "Comsos Chain",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894a5"
+  },
+  "_name": "Roiling Chain",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894a7"
+  },
+  "_name": "Seared Sausage",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894a9"
+  },
+  "_name": "Filter Anje",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894ab"
+  },
+  "_name": "BUG Citadel Storm",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61671ff92cccdb6ba894ad"
+  },
+  "_name": "Hex Broker",
+  "_server": "639332399586476032",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894b1"
+  },
+  "_name": "Harvest Animar",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894b3"
+  },
+  "_name": "Elsha Top",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894b5"
+  },
+  "_name": "Godo Helm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894b7"
+  },
+  "_name": "Grixis Consultation",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894b9"
+  },
+  "_name": "Kess Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894bb"
+  },
+  "_name": "Najeela Tempo",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894bd"
+  },
+  "_name": "Tasigur Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894bf"
+  },
+  "_name": "Food Chain Sliver",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894c1"
+  },
+  "_name": "Gitrog Dredge",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894c3"
+  },
+  "_name": "Curious Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894c5"
+  },
+  "_name": "Opus Thief",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894c7"
+  },
+  "_name": "Blood Pod",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894c9"
+  },
+  "_name": "Razakats",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894cb"
+  },
+  "_name": "Scepter Thrasios",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894cd"
+  },
+  "_name": "Urza Powered Scepter",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894cf"
+  },
+  "_name": "Yidris Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894d1"
+  },
+  "_name": "Midrange Yisan",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894d3"
+  },
+  "_name": "Zur Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894d5"
+  },
+  "_name": "Selvala Brostorm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894d9"
+  },
+  "_name": "Circu Lantern Isoreversal",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894db"
+  },
+  "_name": "Oona Consultation",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894d7"
+  },
+  "_name": "Brago Stax",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894dd"
+  },
+  "_name": "Vannifar",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894df"
+  },
+  "_name": "Grixis Twin",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894e1"
+  },
+  "_name": "Derevi Stax",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894e3"
+  },
+  "_name": "Blue Farm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894e5"
+  },
+  "_name": "Food Chain Korvold",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894e7"
+  },
+  "_name": "Razbear-y Anafenza",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894e9"
+  },
+  "_name": "Muldrotha Midrange",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894ed"
+  },
+  "_name": "T&K Bearweaver",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894f3"
+  },
+  "_name": "Honorless Meren",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ef92cccdb6ba894eb"
+  },
+  "_name": "Mad Farm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894ef"
+  },
+  "_name": "High Tide Jace",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894f1"
+  },
+  "_name": "Sidisi Ad Naus Fishbowl",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894f5"
+  },
+  "_name": "Varolz Hulk",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894f7"
+  },
+  "_name": "Edric Turns",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894f9"
+  },
+  "_name": "Bad Farm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894fb"
+  },
+  "_name": "Food Chain Prossh",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894fd"
+  },
+  "_name": "Consult Raza Thrasios",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba894ff"
+  },
+  "_name": "Baral Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89501"
+  },
+  "_name": "Rashmi Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89503"
+  },
+  "_name": "Scion Reanimator",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89505"
+  },
+  "_name": "Fblthp",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89507"
+  },
+  "_name": "High Tide Azami",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89509"
+  },
+  "_name": "Kaalia Razaketh",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8950b"
+  },
+  "_name": "Yarok Aluren Alarm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8950d"
+  },
+  "_name": "Markov Razaketh",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8950f"
+  },
+  "_name": "Toothy Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89511"
+  },
+  "_name": "Niv-Mizzet Parun Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89513"
+  },
+  "_name": "Blue Pod",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89515"
+  },
+  "_name": "Jhoira Stax Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89517"
+  },
+  "_name": "Yuriko Doomsday Oracle",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89519"
+  },
+  "_name": "Adnaus/Earthcraft Ghave Combo",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8951b"
+  },
+  "_name": "Tymna Kraum Divergent",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8951d"
+  },
+  "_name": "Master Flicker",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8951f"
+  },
+  "_name": "SBT Layered Combo",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89523"
+  },
+  "_name": "Chulane",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89525"
+  },
+  "_name": "Marwyn Elfball",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89527"
+  },
+  "_name": "Lavinia Omen Pool",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89521"
+  },
+  "_name": "Kefnet Turns",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89529"
+  },
+  "_name": "Black Hole Son",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8952b"
+  },
+  "_name": "Inalla Wizard Combo",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8952d"
+  },
+  "_name": "Aminatou Consultation",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8952f"
+  },
+  "_name": "Shuffle Atla",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89531"
+  },
+  "_name": "Kenrith Consultation",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89533"
+  },
+  "_name": "Selvala Twiddlestorm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89535"
+  },
+  "_name": "Uro Scepter",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89537"
+  },
+  "_name": "Chain Veil Teferi",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89539"
+  },
+  "_name": "Momir Hackball",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8953b"
+  },
+  "_name": "Divergent Kykar",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8953d"
+  },
+  "_name": "The Pet Cemetery",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8953f"
+  },
+  "_name": "Emry",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89541"
+  },
+  "_name": "Kykar Underworld Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89543"
+  },
+  "_name": "Heliod Ballista",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89545"
+  },
+  "_name": "Thrasios/Vial Oracle",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89547"
+  },
+  "_name": "Thrasios/Bruse Tarl Evolution",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89549"
+  },
+  "_name": "Midrange T&T Consultation",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8954b"
+  },
+  "_name": "Taigam Turns",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8954d"
+  },
+  "_name": "Kenrith Thief",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89555"
+  },
+  "_name": "Rielle Discard Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8954f"
+  },
+  "_name": "Tatyova Lands",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89551"
+  },
+  "_name": "Kinnan Scepter",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89553"
+  },
+  "_name": "Tayam Midrange Druid",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89557"
+  },
+  "_name": "Brallin Curiosity",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89559"
+  },
+  "_name": "Thrasios Tymna Protean Hulk",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8955b"
+  },
+  "_name": "Freed Zaxara",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8955d"
+  },
+  "_name": "Freeze Thief",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8955f"
+  },
+  "_name": "Breya Consultation",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89561"
+  },
+  "_name": "GAAIV Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89563"
+  },
+  "_name": "Food Chain Ukkima",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89565"
+  },
+  "_name": "Sisay Tutor Chains",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89567"
+  },
+  "_name": "Sygg Draw-Go",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89569"
+  },
+  "_name": "Pako Midrange",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8956b"
+  },
+  "_name": "Thrasios Tymna Hermit Druid",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8956d"
+  },
+  "_name": "5 Color Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8956f"
+  },
+  "_name": "Xantcha Combo-Control",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89571"
+  },
+  "_name": "Filter Anje",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89573"
+  },
+  "_name": "Seared Sausage",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89575"
+  },
+  "_name": "Hex Broker",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89577"
+  },
+  "_name": "BUG Citadel Storm",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba89579"
+  },
+  "_name": "Roiling Chain",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f61684ff92cccdb6ba8957b"
+  },
+  "_name": "Comsos Chain",
+  "_server": "461329837278232578",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f616c2bf92cccdb6ba89582"
+  },
+  "_name": "Squirrel FORCE One",
+  "_server": "461329837278232578",
+  "__v": 0
+}]
